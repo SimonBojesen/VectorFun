@@ -1,4 +1,7 @@
 # VectorFun
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SimonBojesen/VectorFun/HEAD)
+
 a)
 
 <img src="https://latex.codecogs.com/gif.latex?\vec{a}&space;=&space;(7-0,&space;8-0)&space;=&space;\binom{7}{8}" title="\vec{a} = (7-0, 8-0) = \binom{7}{8}" />
